@@ -16,7 +16,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className='w-screen w-height'>
       <body className={inter.className}>
       <Twinkies />
       {children}
