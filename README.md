@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Then, for no reason at all, I decided to add some Twinkies to it. I'm not sure why, but I did. I'm not sure if I'll keep them, but they're here for now.
 
 ## Getting Started
 
