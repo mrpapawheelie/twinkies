@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Then, for no reason at all, I decided to add some Twinkies to it. I'm not sure why, but I did. I'm not sure if I'll keep them, but they're here for now.
 
+[Twinkies Demo](https://twinkies.vercel.app/)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmrpapawheelie%2Ftwinkies)
+
 ## Getting Started
 
 First, run the development server:
