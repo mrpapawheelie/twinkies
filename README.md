@@ -1,6 +1,6 @@
-# Next.js 14 with TypeScript and Tailwind - Star Twinkle Demo
+# Next.js 14 with TypeScript and Tailwind - Star Twinkle Component
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), enhanced with TypeScript for type safety and Tailwind CSS for styling. The project includes a unique feature - a Twinkies component that adds a delightful twinkling effect.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), enhanced with TypeScript for type safety and Tailwind CSS for styling. The project includes a unique feature - a component that adds a delightful twinkling effect.
 
 Explore the Twinkies Demo live: [Twinkies Demo](https://twinkies.vercel.app/)
 
@@ -30,9 +30,9 @@ pnpm dev
 
 ## Component file locations
 
-The component is located at app/components/twinkle
-The style is in app/globals.css
-The component is imported in app/page.tsx
+- The component is located at app/components/twinkle
+- The style is in app/globals.css
+- The component is imported in app/page.tsx
 
 
 
