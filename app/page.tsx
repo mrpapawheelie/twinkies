@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-import Twinkle from '@/app/components/twinkle'
+import { Twinkle } from '@/app/components/twinkle'
 
 export default function Home() {
   return (
